@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/4leX-42/4leX-42.github.io/static/css/main.3ceac2d8.css",
+    "main.js": "/4leX-42/4leX-42.github.io/static/js/main.8b5e8815.js",
+    "index.html": "/4leX-42/4leX-42.github.io/index.html",
+    "main.3ceac2d8.css.map": "/4leX-42/4leX-42.github.io/static/css/main.3ceac2d8.css.map",
+    "main.8b5e8815.js.map": "/4leX-42/4leX-42.github.io/static/js/main.8b5e8815.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ceac2d8.css",
+    "static/js/main.8b5e8815.js"
+  ]
+}
